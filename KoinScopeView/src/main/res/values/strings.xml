@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KoinScopeApp</string>
+    <string name="user_detail">User Detail</string>
+    <string name="back">Back</string>
+    <string name="user_list">User List</string>
+    <string name="post_list">Post List</string>
+    <string name="main_screen">Main Screen</string>
+    <string name="user_feature">User Feature</string>
+    <string name="post_detail">Post Detail</string>
+    <string name="post_feature">Post Feature</string>
+</resources>
